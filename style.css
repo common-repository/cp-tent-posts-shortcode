@@ -1,0 +1,47 @@
+.cptentwidget {
+	font-size: smaller;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.cptentwidget li {
+	list-style: none;
+	font-style: italic;
+}
+
+.cptentwbasic img {
+	height: 16px;
+	width: 16px;
+}
+
+.cptent {
+	font-size: smaller;
+	display: block;
+	padding-right: 120px;
+}
+
+.cptentbasic {
+	padding-left: 50px;
+}
+
+.cptentbasic img {
+	height: 32px;
+	width: 32px
+}
+
+.cptent li {
+	list-style: none;
+	font-style: italic;
+}
+
+
+.cptentmentions {
+	font-style: normal;
+	font-size: x-small;
+	float: right;
+	clear: both;
+}
+
+.cptentlink {
+	text-decoration: none;
+}
